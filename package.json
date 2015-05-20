@@ -1,0 +1,12 @@
+{
+  "name": "testWithPouchAndHarmony",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Ognjen Bubalo <ognjen.bubalo@gmail.com>",
+  "dependencies": {
+    "harmony-reflect": "^1.2.0",
+    "pouchdb": "^3.4.0",
+    "present": "0.0.6"
+  },
+  "devDependencies": {}
+}
